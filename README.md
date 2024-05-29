@@ -1,0 +1,1 @@
+The XGBoost algorithm is a versatile machine learning tool that can be used for both classification and regression tasks. In this project, we utilized the XGBoost algorithm to train our model on a cancer patient dataset.
